@@ -1,0 +1,6 @@
+[submodule "MergeSort"]
+	path = MergeSort
+	url = git@gitlab.com:n0mn0m/MergeSort.git
+[submodule "Quicksort"]
+	path = Quicksort
+	url = git@gitlab.com:n0mn0m/Quicksort.git
