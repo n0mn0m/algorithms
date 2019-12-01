@@ -1,0 +1,9 @@
+[package]
+name = "median_three_quicksort"
+version = "0.0.1"
+authors = ["Alex Hagerman"]
+description = "Collections quicksort."
+license = "GPL-3.0"
+
+[dependencies]
+rand = "0.4"
